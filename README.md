@@ -41,6 +41,6 @@ Permission to Send SMS for Android
 We are trying to use the SMS feature so we need to add some permission in AndroidManifest.xml file for Android. For more about the permission, you can see this post.
 So we are going to add the following permissions in the AndroidMnifest.xml
 
-Copy the  <uses-permission android:name="android.permission.READ_SMS"/>  go to paste in   android > app > src > main > AndroidManifest.xml
+Copy the  " <uses-permission android:name="android.permission.READ_SMS"/> "  go to paste in   android > app > src > main > AndroidManifest.xml
 
 Then use the App.js from githup and react-native run-android
